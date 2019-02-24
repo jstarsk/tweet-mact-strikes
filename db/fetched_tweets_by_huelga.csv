@@ -1,0 +1,4 @@
+id,created_at,user_id,text,lang,coordinates_type,coordinates_lat,coordinates_lon,place_id,place_name,place_country_code,retweet_count,favorite_count,_search_string,_search_loc_lat,_search_loc_lon,_search_loc_range,label,sentiment_classifier_score
+1098837243140153345,Fri Feb 22 06:49:48 +0000 2019,2853425537,"Huelga 21F: Mucho ruido por la ma�ana, mucha gente por la tarde https://t.co/uaVwOHNRf7 v�a @el_taquigrafo",es,None,None,None,801117f099b1b389,None,ES,1,2,huelga,41.376486,2.098896,1,NEG,0.351
+1098657130314432512,Thu Feb 21 18:54:06 +0000 2019,301288066,"21-F, Catalu�a, �huelga o secuestro? https://t.co/leChvmGDa7 v�a @YouTube",es,None,None,None,801117f099b1b389,None,ES,0,0,huelga,41.376486,2.098896,1,NEG,0.149
+1096505330568171520,Fri Feb 15 20:23:37 +0000 2019,198434030,Los m�dicos de la sanidad concertada desconvocan la huelga https://t.co/GAUMd8Y5s1,es,None,None,None,801117f099b1b389,None,ES,0,0,huelga,41.376486,2.098896,1,NEG,0.097
