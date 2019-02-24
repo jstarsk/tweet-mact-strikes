@@ -7,3 +7,6 @@ search_topics = ["#TransportPublic", "#Catalonia", "#FreeToThom", "#NoSurrender"
                      "#metrobarcelona", "#ConstrumatBCN"]
 
 ![Screenshot](screenshot.png)
+
+![Screenshot](sample-1.png)
+
