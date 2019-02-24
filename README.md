@@ -8,5 +8,9 @@ search_topics = ["#TransportPublic", "#Catalonia", "#FreeToThom", "#NoSurrender"
 
 ![Screenshot](screenshot.png)
 
+NEGATIVE
 ![Screenshot](sample-1.png)
+
+POSITIVE
+![Screenshot](sample-2.png)
 
