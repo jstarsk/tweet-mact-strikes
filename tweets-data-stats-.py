@@ -25,7 +25,7 @@ def normalize(value, old_min, old_max, new_min, new_max):
 
 
 def classifier_search_tweets_loc():
-    type_os = 'OSX'
+    type_os = 'WIN'
 
     db_csv = dir_os_db(wdir="db_input", os_system=type_os)
 
